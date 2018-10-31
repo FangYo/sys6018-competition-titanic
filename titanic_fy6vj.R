@@ -1,6 +1,6 @@
 # sys6018-competition-titanic
 # https://www.kaggle.com/c/titanic/overview
-# Fang You (fy6vj)
+# Fang You (fy6vj) 
 
 library(readr)  
 library(dplyr) 
